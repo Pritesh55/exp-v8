@@ -1,0 +1,24 @@
+{
+  "name": "exp-v8",
+  "version": "1.0.0",
+  "description": "Basic app for heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritesh55/exp-v8.git"
+  },
+  "author": "Pritesh B. Shah <iampritesh13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pritesh55/exp-v8/issues"
+  },
+  "homepage": "https://github.com/Pritesh55/exp-v8#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
